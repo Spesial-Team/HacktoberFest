@@ -8,6 +8,17 @@
 
 3. Browser (Chrome/Firefox)
 
+# Step Awal
+
+1. Dowonload Aplikasi VS Code di PC Kalian masing-masing
+
+2. Instal Extensi penting di VS Code seperti:
+   - Live share
+   - Live server
+   - Pritiere
+   - Auto Rename Tag
+   - GitLens
+
 # Membuat Folder Project
 
 1. Buat folder baru dengan nama HacktoberFest Spesial Team
